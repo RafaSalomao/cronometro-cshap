@@ -1,0 +1,14 @@
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\bin\Debug\net8.0\Stopwatch.exe
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\bin\Debug\net8.0\Stopwatch.deps.json
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\bin\Debug\net8.0\Stopwatch.runtimeconfig.json
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\bin\Debug\net8.0\Stopwatch.dll
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\bin\Debug\net8.0\Stopwatch.pdb
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\obj\Debug\net8.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfoInputs.cache
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfo.cs
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\obj\Debug\net8.0\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\obj\Debug\net8.0\Stopwatch.dll
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\obj\Debug\net8.0\refint\Stopwatch.dll
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\obj\Debug\net8.0\Stopwatch.pdb
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\obj\Debug\net8.0\Stopwatch.genruntimeconfig.cache
+C:\Users\Rafa\Estudos\Programação\C#\Balta.io\Modulo_7\Stopwatch\obj\Debug\net8.0\ref\Stopwatch.dll
